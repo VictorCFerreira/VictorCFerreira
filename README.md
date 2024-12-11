@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Victor, a Fullstack Web developer</h1>
 
- - 👷 I’m currently working with **React and Spring Boot**
- - 📫 You can contact me at <strong><a href="mailto:cortelettevictor@gmail.com">cortelettevictor@gmail.com</a></strong>
+<p>About me:</p>
+<ul>
+  <li>👷 I’m currently working with <strong>React and Spring Boot</strong></li>
+  <li>📫 You can contact me at <strong><a href="mailto:cortelettevictor@gmail.com">cortelettevictor@gmail.com</a></strong></li>
+</ul>
 
 
 <h3 align="left">Connect with me:</h3>
