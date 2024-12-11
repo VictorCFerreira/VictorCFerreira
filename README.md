@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Victor, a Fullstack Web developer</h1>
 <h3 align="center">This is my personal and school profile, it holds projects unrelated to my job!</h3>
 
-I’m currently working with **React and Spring Boot**
+ - 👷 I’m currently working with **React and Spring Boot**
+ - 📫 You can contact me at <strong><a href="mailto:cortelettevictor@gmail.com">cortelettevictor@gmail.com</a></strong>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
