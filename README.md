@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o Victor, Um Desenvolvedor Fullstack Web </h1>
+<h1 align="center">Olá 👋, Eu sou o Victor, Um Desenvolvedor Fullstack </h1>
 
 <p>About me:</p>
 <ul>
