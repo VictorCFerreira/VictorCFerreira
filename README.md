@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Victor, Um Desenvolvedor Fullstack </h1>
 
-<p>About me:</p>
+<p>Sobre mim:</p>
 <ul>
   <li>👷 Atualmente trabalho com <strong>React e Spring Boot</strong></li>
   <li>📫 Você pode me contatar no email <strong><a href="mailto:cortelettevictor@gmail.com">cortelettevictor@gmail.com</a></strong></li>
