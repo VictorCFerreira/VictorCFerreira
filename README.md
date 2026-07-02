@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Olá, eu sou o Victor 👋</h1>
 <h3 align="center">Desenvolvedor Fullstack</h3>
 
@@ -66,4 +65,3 @@
 <p align="center">
   <i>Obrigado pela visita! 🚀</i>
 </p>
-```
