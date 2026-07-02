@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Angular+%2B+Spring+Boot;Ex-desenvolvedor+React;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VictorCFerreira&label=Visualizações+no+perfil&color=2F81F7&style=flat" alt="Contador de visitas" />
-</p>
-
 ---
 
 ### 🚀 Sobre mim
