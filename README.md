@@ -1,21 +1,21 @@
-<h1 align="center">Olá, eu sou o Victor 👋</h1>
-<h3 align="center">Desenvolvedor Fullstack</h3>
+<h1 align="center">Hi, I'm Victor 👋</h1>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;Angular+%2B+Spring+Boot;Ex-desenvolvedor+React;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Angular+%2B+Spring+Boot;Former+React+Developer;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 👷 Atualmente trabalho com **Angular** e **Spring Boot**
-- 🔁 Tenho experiência sólida com **React**, transitando com facilidade entre os ecossistemas
-- 📫 Me contate em **[cortelettevictor@gmail.com](mailto:cortelettevictor@gmail.com)**
+- 👷 Currently working with **Angular** and **Spring Boot**
+- 🔁 Strong experience with **React**, comfortable across frontend ecosystems
+- 📫 Reach me at **[cortelettevictor@gmail.com](mailto:cortelettevictor@gmail.com)**
 
 ---
 
-### 🔗 Conecte-se comigo
+### 🔗 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/victor-cortelette-ferreira" target="_blank">
@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Stack atual
+### 🛠️ Current Stack
 
 <p align="left">
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/></a>
@@ -42,7 +42,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-### ⏳ Já trabalhei também com
+### ⏳ I've Also Worked With
 
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <i>Obrigado pela visita! 🚀</i>
+  <i>Thanks for stopping by! 🚀</i>
 </p>
