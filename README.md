@@ -42,6 +42,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
+<!-- 
 ### ⏳ I've Also Worked With
 
 <p align="left">
@@ -57,6 +58,7 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/VictorCFerreira/VictorCFerreira/output/github-contribution-grid-snake.svg" alt="Snake animation" />
